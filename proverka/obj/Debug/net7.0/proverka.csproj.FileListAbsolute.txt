@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Domashka2\proverka\bin\Debug\net7.0\proverka.exe
+C:\Users\User\Desktop\Domashka2\proverka\bin\Debug\net7.0\proverka.deps.json
+C:\Users\User\Desktop\Domashka2\proverka\bin\Debug\net7.0\proverka.runtimeconfig.json
+C:\Users\User\Desktop\Domashka2\proverka\bin\Debug\net7.0\proverka.dll
+C:\Users\User\Desktop\Domashka2\proverka\bin\Debug\net7.0\proverka.pdb
+C:\Users\User\Desktop\Domashka2\proverka\obj\Debug\net7.0\proverka.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Domashka2\proverka\obj\Debug\net7.0\proverka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Domashka2\proverka\obj\Debug\net7.0\proverka.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Domashka2\proverka\obj\Debug\net7.0\proverka.AssemblyInfo.cs
+C:\Users\User\Desktop\Domashka2\proverka\obj\Debug\net7.0\proverka.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Domashka2\proverka\obj\Debug\net7.0\proverka.dll
+C:\Users\User\Desktop\Domashka2\proverka\obj\Debug\net7.0\refint\proverka.dll
+C:\Users\User\Desktop\Domashka2\proverka\obj\Debug\net7.0\proverka.pdb
+C:\Users\User\Desktop\Domashka2\proverka\obj\Debug\net7.0\proverka.genruntimeconfig.cache
+C:\Users\User\Desktop\Domashka2\proverka\obj\Debug\net7.0\ref\proverka.dll
